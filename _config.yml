@@ -1,0 +1,8 @@
+title: "卓球親子日誌"
+description: "子供と一緒にはじめた卓球や、日々の練習、日本の卓球選手について綴るブログです。"
+theme: minima
+baseurl: "/takkyu-oyako"
+show_excerpts: true
+lang: ja
+minima:
+  skin: classic
